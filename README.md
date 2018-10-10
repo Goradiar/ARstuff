@@ -1,2 +1,0 @@
-# ARstuff
-Testing AR.js
